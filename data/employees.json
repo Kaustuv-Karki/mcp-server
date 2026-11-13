@@ -1,0 +1,37 @@
+[
+  {
+    "id": "E001",
+    "name": "Asha Demo",
+    "department": "Engineering",
+    "title": "Backend Developer",
+    "skills": ["Python", "SQL", "FastAPI"]
+  },
+  {
+    "id": "E002",
+    "name": "Ben Example",
+    "department": "Engineering",
+    "title": "Frontend Developer",
+    "skills": ["JavaScript", "TypeScript", "React"]
+  },
+  {
+    "id": "E003",
+    "name": "Cora Sample",
+    "department": "Finance",
+    "title": "Financial Analyst",
+    "skills": ["Excel", "Reporting", "Budgeting"]
+  },
+  {
+    "id": "E004",
+    "name": "Dev Fiction",
+    "department": "Human Resources",
+    "title": "Recruitment Specialist",
+    "skills": ["Recruitment", "Onboarding", "Communication"]
+  },
+  {
+    "id": "E005",
+    "name": "Elena Test",
+    "department": "Operations",
+    "title": "Operations Coordinator",
+    "skills": ["Project Management", "Excel", "Scheduling"]
+  }
+]
